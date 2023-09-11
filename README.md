@@ -1,5 +1,5 @@
-# PizzaAppMAUI
-Pizza App built using .NET MAUI - .Net 7
+# PizzaAppMAUI - Pizza App built using .NET MAUI - .Net 7
+
 
 ##### Buy the Complete Source Code
 https://www.buymeacoffee.com/abhayprince/e/160421 
